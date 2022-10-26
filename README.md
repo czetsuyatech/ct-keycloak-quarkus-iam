@@ -8,7 +8,7 @@ authentication, identity provider, etc.
 
 This project is running on:
 
-- Keycloak 16.1.1
+- Keycloak 19.0.3
 - MySQL JDBC Driver 8.0.29
 
 ## Features
