@@ -4,6 +4,7 @@
 .settings
 .idea
 docker-assembly/.settings
+*.iml
 
 # Submodules
 #ct-keycloak-spis
